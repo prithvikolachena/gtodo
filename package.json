@@ -1,0 +1,19 @@
+{
+  "name": "gtodo",
+  "version": "1.0.0",
+  "description": "This is a task evaluation",
+  "main": "gtodo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prithvikolachena/todo.git"
+  },
+  "author": "prithvikolachena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prithvikolachena/todo/issues"
+  },
+  "homepage": "https://github.com/prithvikolachena/todo#readme"
+}
